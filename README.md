@@ -4,4 +4,4 @@ This calculator is coded using React. Components and states are utilized in this
 
 ---
 
-click [here]() to see demo 
+click [here](https://amiryar6391.github.io/calculator/) to see demo 
